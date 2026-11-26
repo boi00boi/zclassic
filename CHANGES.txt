@@ -1,0 +1,13 @@
+ZClassic wallet — new UI (proposal, built on v2.1.2-beta13 source, not released)
+
+What changed:
+1. New dark green look with the ZClassic logo. Cleaner, calmer, easier to read.
+2. Side menu instead of tabs: Home, Send, Receive, Activity, plus Address book, Settings, Node, More. No top menu bar.
+3. Receive: Private / Transparent tabs, QR next to the address, and a list of ALL your addresses (even empty ones) with search, sort by balance and 10 per page.
+4. Copy any address in one click. Long addresses show an "i" with the full address.
+5. Activity: choose the time format: 24-hour, 12-hour (AM/PM) or "5m ago".
+6. Settings and Address book are now full pages, with short, plain explanations.
+7. No startup popup: progress shows in the main window, and features unlock when the node is ready.
+8. Send: long addresses no longer stretch the page.
+
+Nothing changed in how coins, keys or the node work. Screens show test data.
